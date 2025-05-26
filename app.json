@@ -3,11 +3,6 @@
     "name": "Renameber",
     "slug": "ankiApp",
     "version": "1.0.0",
-    "updates": {
-  "runtimeVersion": {
-    "policy": "appVersion"
-  }
-},
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
